@@ -1,4 +1,6 @@
-// ChamberDisplay.h
+//Copyright 2014, Alex Khilko.
+//This file is part of LifeChamber which is released under MIT.
+//See file LICENSE.TXT or go to www.alexkhilko.com for full license details. 
 
 #ifndef _CHAMBERDISPLAY_h
 #define _CHAMBERDISPLAY_h
